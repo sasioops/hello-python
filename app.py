@@ -1,1 +1,2 @@
-print("Hello from Jenkins!")
+name = "Jenkins"
+print(f"Hello, {name}!")
